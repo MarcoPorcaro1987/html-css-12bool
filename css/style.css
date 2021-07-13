@@ -1,17 +1,14 @@
 /* Common*/
-
-body {
-    height: 100vh;
-}
-
-[class*="col-"] {
-   
-}
-
 .box {
-    background-color: #006CFA;
+    background-color:#006CFA;
     border: 1px solid white;
     text-align: center;
     color: white;
     padding: 15px;
+}
+
+.nested {
+    background-color:#00E165;
+    border-color: #006CFA;
+   
 }
