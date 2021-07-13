@@ -3,3 +3,15 @@
 body {
     height: 100vh;
 }
+
+[class*="col-"] {
+   
+}
+
+.box {
+    background-color: #006CFA;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
